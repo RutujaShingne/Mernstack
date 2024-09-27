@@ -8,6 +8,8 @@ type FormData = {
   name: string;
   email: string;
   age: number;
+  updateemail: string;
+
 };
 
 const MyForm: React.FC = () => {
